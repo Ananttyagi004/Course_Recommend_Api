@@ -1,0 +1,9 @@
+distlib
+Flask
+Flask-Cors
+Flask-WTF
+gunicorn
+numpy
+oauthlib
+pandas
+scikit-learn
